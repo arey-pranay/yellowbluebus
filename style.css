@@ -92,26 +92,26 @@ body {
 
 @media screen and (max-width: 700px) {
   .cards {
-    height: 350px;
-    width: 350px;
+    height: 400px;
+    width: 400px;
   }
   .card .front-view img {
     width: 17px;
   }
   .card .back-view img {
-    max-width: 40px;
+    max-width: 80px;
   }
 }
 
 @media screen and (max-width: 530px) {
   .cards {
-    height: 300px;
-    width: 300px;
+    height: 350px;
+    width: 350px;
   }
   .card .front-view img {
     width: 15px;
   }
   .card .back-view img {
-    max-width: 35px;
+    max-width: 70px;
   }
 }
